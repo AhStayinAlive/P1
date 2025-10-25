@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|solutionrelative:P1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|solutionrelative:P1\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\README.md",
+              "RelativeDocumentMoniker": "P1\\README.md",
+              "ToolTip": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\README.md",
+              "RelativeToolTip": "P1\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-25T08:51:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "prime_threads.cpp",
               "DocumentMoniker": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\prime_threads.cpp",
               "RelativeDocumentMoniker": "P1\\prime_threads.cpp",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "P1\\prime_threads.cpp",
               "ViewState": "AgIAALIBAAAAAAAAAAAwwLUBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-25T08:33:58.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T08:33:58.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "config.ini",
               "DocumentMoniker": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\config.ini",
               "RelativeDocumentMoniker": "P1\\config.ini",
