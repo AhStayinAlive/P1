@@ -20,11 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="per_number_deferred.ini" />
-    <Text Include="per_number_immediate.ini" />
-    <Text Include="range_deferred.ini" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\range_immediatee.ini" />
+    <Text Include="config.ini" />
   </ItemGroup>
 </Project>

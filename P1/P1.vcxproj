@@ -124,21 +124,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="per_number_immediate.ini">
-      <FileType>Document</FileType>
-    </Text>
     <ClCompile Include="prime_threads.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="per_number_deferred.ini">
+    <Text Include="config.ini">
       <FileType>Document</FileType>
     </Text>
-    <Text Include="range_deferred.ini">
-      <FileType>Document</FileType>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\range_immediatee.ini" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|solutionrelative:P1\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\prime_threads.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5993AB5A-4869-4431-A074-86ECA7C09ACA}|P1\\P1.vcxproj|solutionrelative:P1\\prime_threads.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prime_threads.cpp",
+              "DocumentMoniker": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\prime_threads.cpp",
+              "RelativeDocumentMoniker": "P1\\prime_threads.cpp",
+              "ToolTip": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\prime_threads.cpp",
+              "RelativeToolTip": "P1\\prime_threads.cpp",
+              "ViewState": "AgIAALIBAAAAAAAAAAAwwLUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T08:33:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\config.ini",
+              "RelativeDocumentMoniker": "P1\\config.ini",
+              "ToolTip": "C:\\Users\\stayin_alive\\Documents\\GitHub\\P1\\P1\\config.ini",
+              "RelativeToolTip": "P1\\config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-10-25T08:33:54.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
